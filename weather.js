@@ -1,7 +1,7 @@
 
 //import {myApi} from './api.js'
 
-const apikey ='00d811088448e6aa96513e57fef73ba9'// myApi();
+const apikey ='APIKey';//Enter your APIKey here
 
 window.addEventListener("load", () => {
     if (navigator.geolocation) {
